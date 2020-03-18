@@ -1,7 +1,17 @@
 # Sentiment-Analysis-using-python
 Sentiment Analysis using python
 
-
+## Requirements
+VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains.
+- vaderSentiment
+- Flask
+- gevent
+- gunicorn
+- tensorflow
+- keras
+- numpy
+- h5py
+- pillow
 
 # Web Application
 ![1](https://user-images.githubusercontent.com/28219393/77004484-3b473f00-6970-11ea-8825-93ed06827b8f.JPG)
